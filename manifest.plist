@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://d1w8zftihonpwo.cloudfront.net/Connect/iOS/Connect-b17282.ipa</string>
+					<string>https://s3.powerhrg.com/nitro-demo/mdm_builds/connect/ios/1e6902cd-eb9f-4972-905b-71e3b018f3c0/Connect-b17393.ipa?AWSAccessKeyId=5M8A05S1ZFKGKON5KLYK&amp;Signature=raZlwjxjT0W/G28fQLU%2BjkGp97s%3D&amp;Expires=1608120766</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.powerhrg.connect.rc</string>
-				<key>bundle-version</key>
-				<string>5</string>
+				<string>com.powerhrg.connect.dev</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>bundle-version</key>
+				<string>5</string>
 				<key>title</key>
-				<string>Connect RC</string>
+				<string>Connect Beta</string>
 			</dict>
 		</dict>
 	</array>
