@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://s3.powerhrg.com/nitro-demo/mdm_builds/connect/ios/1e6902cd-eb9f-4972-905b-71e3b018f3c0/Connect-b17393.ipa?AWSAccessKeyId=5M8A05S1ZFKGKON5KLYK&amp;Signature=raZlwjxjT0W/G28fQLU%2BjkGp97s%3D&amp;Expires=1608120766</string>
-				</dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>com.powerhrg.connect.dev</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>bundle-version</key>
-				<string>5</string>
-				<key>title</key>
-				<string>Connect Beta</string>
-			</dict>
-		</dict>
-	</array>
-</dict>
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string>https://s3.powerhrg.com/nitro-devbox/mdm_builds/connect/ios/2f2620b6-7c08-4964-85d0-4c035a4e8b03/Connect-b17306.ipa?AWSAccessKeyId=GWNQSVNDSVYEMTU6EFPD&amp;Signature=TfbbbeYfA2%2BX4B2FNC/rC%2BElMCU%3D&amp;Expires=1608145845</string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string>com.powerhrg.connect.dev</string>
+          <key>bundle-version</key>
+          <string>5</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>title</key>
+          <string>Connect Beta</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
 </plist>
